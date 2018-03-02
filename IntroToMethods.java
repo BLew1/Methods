@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class IntroToMethods {
     public static void main(String[] args) {
 
         // Get marks from user
